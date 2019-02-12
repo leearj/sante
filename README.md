@@ -3,3 +3,4 @@ Health is important. Santé reminds you to stand up, focus your eyes away from t
 
 ## Authors
 - George Lim
+- Christopher Leung
