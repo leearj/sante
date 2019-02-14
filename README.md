@@ -8,4 +8,5 @@ Health is important. Santé reminds you to stand up, focus your eyes away from t
 - Justin Guo
 - Kiana Ziglari
 - Meetkumar Patel
+- Michael Tang
 - Pablo Rossi
