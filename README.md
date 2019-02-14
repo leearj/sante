@@ -5,6 +5,7 @@ Health is important. Santé reminds you to stand up, focus your eyes away from t
 - Christopher Leung
 - George Lim
 - John Escalona
+- Jerry Fernandez
 - Justin Guo
 - Kiana Ziglari
 - Marisabel Chang
