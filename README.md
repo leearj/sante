@@ -1,5 +1,5 @@
 # Santé
-Health is important. Santé to reminds you to stand up, focus your eyes away from the screen, go for a walk, and more.
+Health is important. Santé reminds you to stand up, focus your eyes away from the screen, go for a walk, and more.
 ## Authors
 - Alejandro Millan
 - Andrew So
@@ -9,6 +9,7 @@ Health is important. Santé to reminds you to stand up, focus your eyes away fro
 - Cesar Martinez
 - Christopher Leung
 - Claire Wong
+- Colby Le
 - George Lim
 - Hamza Parekh
 - Jeremy Duenas
