@@ -7,6 +7,7 @@ Health is important. Santé reminds you to stand up, focus your eyes away from t
 - John Escalona
 - Justin Guo
 - Kiana Ziglari
+- Marisabel Chang
 - Matthew Tootoonchi
 - Meetkumar Patel
 - Michael Tang
