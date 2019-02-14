@@ -11,6 +11,7 @@ Health is important. Santé to reminds you to stand up, focus your eyes away fro
 - John Escalona
 - Jerry Fernandez
 - Justin Guo
+- Justin Tok
 - Kiana Ziglari
 - Marisabel Chang
 - Matthew Tootoonchi
