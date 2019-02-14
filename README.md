@@ -2,4 +2,6 @@
 Health is important. Santé reminds you to stand up, focus your eyes away from the screen, go for a walk, and more.
 
 ## Authors
--Justin Guo
+- Christopher Leung
+- George Lim
+- Justin Guo
