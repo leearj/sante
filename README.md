@@ -5,6 +5,7 @@ Health is important. Santé to reminds you to stand up, focus your eyes away fro
 - Andrew So
 - Anirban Manna
 - Arturo Pan
+- Cesar Martinez
 - Christopher Leung
 - Claire Wong
 - George Lim
