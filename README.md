@@ -17,6 +17,7 @@ Health is important. Santé to reminds you to stand up, focus your eyes away fro
 - Kiana Ziglari
 - Marisabel Chang
 - Matthew Tootoonchi
+- Maxim Ruzmaykin
 - Meetkumar Patel
 - Michael Tang
 - Pablo Rossi
