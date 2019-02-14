@@ -4,5 +4,6 @@ Health is important. Santé reminds you to stand up, focus your eyes away from t
 ## Authors
 - Christopher Leung
 - George Lim
+- John Escalona
 - Justin Guo
 - Meetkumar Patel
