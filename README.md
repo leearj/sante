@@ -14,6 +14,7 @@ Health is important. Santé to reminds you to stand up, focus your eyes away fro
 - Jeremy Duenas
 - Jeffrey McDonald
 - Jerry Fernandez
+- Jianchao Sun
 - John Escalona
 - Justin Guo
 - Justin Tok
