@@ -12,8 +12,9 @@ Health is important. Santé to reminds you to stand up, focus your eyes away fro
 - George Lim
 - Hamza Parekh
 - Jeremy Duenas
-- John Escalona
+- Jeffrey McDonald
 - Jerry Fernandez
+- John Escalona
 - Justin Guo
 - Justin Tok
 - Kiana Ziglari
