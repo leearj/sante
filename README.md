@@ -20,6 +20,7 @@ Health is important. Santé reminds you to stand up, focus your eyes away from t
 - Justin Guo
 - Justin Tok
 - Kiana Ziglari
+- Lisa Chen
 - Marisabel Chang
 - Matthew Tootoonchi
 - Maxim Ruzmaykin
