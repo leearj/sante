@@ -10,6 +10,7 @@ Health is important. Santé to reminds you to stand up, focus your eyes away fro
 - Christopher Leung
 - Claire Wong
 - George Lim
+- Hamza Parekh
 - Jeremy Duenas
 - John Escalona
 - Jerry Fernandez
