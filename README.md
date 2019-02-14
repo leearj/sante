@@ -6,5 +6,6 @@ Health is important. Santé reminds you to stand up, focus your eyes away from t
 - George Lim
 - John Escalona
 - Justin Guo
+- Kiana Ziglari
 - Meetkumar Patel
 - Pablo Rossi
